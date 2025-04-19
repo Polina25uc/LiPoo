@@ -1,4 +1,4 @@
-# LiPoo
+# LiPoo https://github.com/vasekalita/krutoiprojectonpython.git
 import sys
 import mysql.connector
 from mysql.connector import Error
